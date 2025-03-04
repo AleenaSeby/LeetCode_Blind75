@@ -6,3 +6,9 @@ A deque lets you:
   3. Remove elements from the front
   4. Remove elements from the back
 It's like having a queue and a stack combined in one!
+# Why Use a Deque?
+A deque is useful when you need fast access to both ends of a list.
+For example:
+  Sliding Window Maximum Problem: We need to keep track of the largest number in a moving window.
+  Undo/Redo Feature in text editors: You can go forward and backward in history.
+  Web Browsers (Back & Forward Buttons): You can navigate pages in both directions.
