@@ -1,0 +1,8 @@
+# A deque is a queue where you can add and remove from both ends.
+# How Does a Deque Work?
+A deque lets you:
+  1. Add elements at the front
+  2. Add elements at the back
+  3. Remove elements from the front
+  4. Remove elements from the back
+It's like having a queue and a stack combined in one!
