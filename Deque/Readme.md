@@ -6,6 +6,10 @@ A deque lets you:
   3. Remove elements from the front
   4. Remove elements from the back
 It's like having a queue and a stack combined in one!
+# Characteristics: of Deque:
+Dynamic size: The size of a deque can change dynamically during the execution of a program.
+Linear: Elements in a deque are stored linearly and can be accessed in a sequential manner.
+Double Ended: Elements can be added and removed from both the front and the rear end
 # Why Use a Deque?
 A deque is useful when you need fast access to both ends of a list.
 For example:
